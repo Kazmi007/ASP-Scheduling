@@ -61,332 +61,81 @@ instructor_course(yusuf_sahillioglu, 5710301).
 instructor_course(yusuf_sahillioglu, 5710477).
 
 % Instructors and their Busy hours
-busy(ahmet_oguz_akyuz, 106).
-busy(ahmet_oguz_akyuz, 206).
-busy(ahmet_oguz_akyuz, 207).
-busy(ahmet_oguz_akyuz, 306).
-busy(ahmet_oguz_akyuz, 307).
-busy(ahmet_oguz_akyuz, 407).
-busy(ahmet_oguz_akyuz, 408).
-busy(ahmet_oguz_akyuz, 409).
-busy(ahmet_oguz_akyuz, 410).
-busy(ahmet_oguz_akyuz, 411).
-busy(ayse_nur_bi̇rturk, 100).
-busy(ayse_nur_bi̇rturk, 103).
-busy(ayse_nur_bi̇rturk, 106).
-busy(ayse_nur_bi̇rturk, 107).
-busy(ayse_nur_bi̇rturk, 108).
-busy(ayse_nur_bi̇rturk, 207).
-busy(ayse_nur_bi̇rturk, 209).
-busy(ayse_nur_bi̇rturk, 210).
-busy(ayse_nur_bi̇rturk, 300).
-busy(ayse_nur_bi̇rturk, 302).
-busy(ayse_yasemi̇n_seydi̇m, 200).
-busy(ayse_yasemi̇n_seydi̇m, 201).
-busy(ayse_yasemi̇n_seydi̇m, 202).
-busy(ayse_yasemi̇n_seydi̇m, 401).
-busy(ayse_yasemi̇n_seydi̇m, 402).
-busy(ayse_yasemi̇n_seydi̇m, 406).
-busy(ayse_yasemi̇n_seydi̇m, 407).
-busy(ayse_yasemi̇n_seydi̇m, 409).
-busy(ayse_yasemi̇n_seydi̇m, 410).
-busy(ayse_yasemi̇n_seydi̇m, 500).
-busy(cevat_sener, 100).
-busy(cevat_sener, 101).
-busy(cevat_sener, 102).
-busy(cevat_sener, 305).
-busy(cevat_sener, 409).
-busy(cevat_sener, 410).
-busy(cevat_sener, 500).
-busy(cevat_sener, 707).
-busy(cevat_sener, 708).
-busy(cevat_sener, 709).
-busy(emre_akbas, 107).
-busy(emre_akbas, 200).
-busy(emre_akbas, 201).
-busy(emre_akbas, 306).
-busy(emre_akbas, 307).
-busy(emre_akbas, 404).
-busy(emre_akbas, 405).
-busy(emre_akbas, 406).
-busy(emre_akbas, 610).
-busy(emre_akbas, 611).
-busy(erol_sahi̇n, 103).
-busy(erol_sahi̇n, 201).
-busy(erol_sahi̇n, 202).
-busy(erol_sahi̇n, 403).
-busy(erol_sahi̇n, 507).
-busy(erol_sahi̇n, 601).
-busy(erol_sahi̇n, 602).
-busy(erol_sahi̇n, 603).
-busy(erol_sahi̇n, 710).
-busy(erol_sahi̇n, 711).
-busy(ertan_onur, 104).
-busy(ertan_onur, 105).
-busy(ertan_onur, 307).
-busy(ertan_onur, 308).
-busy(ertan_onur, 503).
-busy(ertan_onur, 504).
-busy(ertan_onur, 505).
-busy(ertan_onur, 600).
-busy(ertan_onur, 704).
-busy(ertan_onur, 705).
-busy(faruk_polat, 107).
-busy(faruk_polat, 108).
-busy(faruk_polat, 210).
-busy(faruk_polat, 211).
-busy(faruk_polat, 305).
-busy(faruk_polat, 306).
-busy(faruk_polat, 407).
-busy(faruk_polat, 408).
-busy(faruk_polat, 600).
-busy(faruk_polat, 604).
-busy(faruk_tokdemi̇r, 309).
-busy(faruk_tokdemi̇r, 310).
-busy(faruk_tokdemi̇r, 311).
-busy(faruk_tokdemi̇r, 504).
-busy(faruk_tokdemi̇r, 601).
-busy(faruk_tokdemi̇r, 602).
-busy(faruk_tokdemi̇r, 603).
-busy(faruk_tokdemi̇r, 606).
-busy(faruk_tokdemi̇r, 607).
-busy(faruk_tokdemi̇r, 707).
-busy(fatos_tunay_yarman_vural, 103).
-busy(fatos_tunay_yarman_vural, 410).
-busy(fatos_tunay_yarman_vural, 411).
-busy(fatos_tunay_yarman_vural, 507).
-busy(fatos_tunay_yarman_vural, 508).
-busy(fatos_tunay_yarman_vural, 600).
-busy(fatos_tunay_yarman_vural, 601).
-busy(fatos_tunay_yarman_vural, 602).
-busy(fatos_tunay_yarman_vural, 705).
-busy(fatos_tunay_yarman_vural, 711).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 103).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 104).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 301).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 302).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 305).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 306).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 600).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 601).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 604).
-busy(fehi̇me_ni̇han_ci̇cekli̇, 700).
-busy(ferda_nur_alpaslan, 110).
-busy(ferda_nur_alpaslan, 301).
-busy(ferda_nur_alpaslan, 302).
-busy(ferda_nur_alpaslan, 311).
-busy(ferda_nur_alpaslan, 404).
-busy(ferda_nur_alpaslan, 700).
-busy(ferda_nur_alpaslan, 701).
-busy(ferda_nur_alpaslan, 709).
-busy(ferda_nur_alpaslan, 710).
-busy(ferda_nur_alpaslan, 711).
-busy(gokturk_ucoluk, 108).
-busy(gokturk_ucoluk, 109).
-busy(gokturk_ucoluk, 110).
-busy(gokturk_ucoluk, 201).
-busy(gokturk_ucoluk, 601).
-busy(gokturk_ucoluk, 701).
-busy(gokturk_ucoluk, 702).
-busy(gokturk_ucoluk, 704).
-busy(gokturk_ucoluk, 705).
-busy(gokturk_ucoluk, 706).
-busy(hakan_yildiz, 105).
-busy(hakan_yildiz, 211).
-busy(hakan_yildiz, 501).
-busy(hakan_yildiz, 502).
-busy(hakan_yildiz, 602).
-busy(hakan_yildiz, 702).
-busy(hakan_yildiz, 703).
-busy(hakan_yildiz, 707).
-busy(hakan_yildiz, 708).
-busy(hakan_yildiz, 709).
-busy(hande_alemdar, 202).
-busy(hande_alemdar, 203).
-busy(hande_alemdar, 210).
-busy(hande_alemdar, 211).
-busy(hande_alemdar, 300).
-busy(hande_alemdar, 301).
-busy(hande_alemdar, 502).
-busy(hande_alemdar, 503).
-busy(hande_alemdar, 610).
-busy(hande_alemdar, 611).
-busy(i̇smai̇l_hakki_toroslu, 100).
-busy(i̇smai̇l_hakki_toroslu, 105).
-busy(i̇smai̇l_hakki_toroslu, 106).
-busy(i̇smai̇l_hakki_toroslu, 306).
-busy(i̇smai̇l_hakki_toroslu, 307).
-busy(i̇smai̇l_hakki_toroslu, 308).
-busy(i̇smai̇l_hakki_toroslu, 403).
-busy(i̇smai̇l_hakki_toroslu, 404).
-busy(i̇smai̇l_hakki_toroslu, 405).
-busy(i̇smai̇l_hakki_toroslu, 709).
-busy(i̇smai̇l_sengor_altingovde, 307).
-busy(i̇smai̇l_sengor_altingovde, 308).
-busy(i̇smai̇l_sengor_altingovde, 409).
-busy(i̇smai̇l_sengor_altingovde, 510).
-busy(i̇smai̇l_sengor_altingovde, 511).
-busy(i̇smai̇l_sengor_altingovde, 601).
-busy(i̇smai̇l_sengor_altingovde, 602).
-busy(i̇smai̇l_sengor_altingovde, 705).
-busy(i̇smai̇l_sengor_altingovde, 706).
-busy(i̇smai̇l_sengor_altingovde, 707).
-busy(mehmet_hali̇t_s_oguztuzun, 107).
-busy(mehmet_hali̇t_s_oguztuzun, 310).
-busy(mehmet_hali̇t_s_oguztuzun, 311).
-busy(mehmet_hali̇t_s_oguztuzun, 407).
-busy(mehmet_hali̇t_s_oguztuzun, 408).
-busy(mehmet_hali̇t_s_oguztuzun, 505).
-busy(mehmet_hali̇t_s_oguztuzun, 506).
-busy(mehmet_hali̇t_s_oguztuzun, 608).
-busy(mehmet_hali̇t_s_oguztuzun, 610).
-busy(mehmet_hali̇t_s_oguztuzun, 611).
-busy(murat_manguoglu, 100).
-busy(murat_manguoglu, 308).
-busy(murat_manguoglu, 309).
-busy(murat_manguoglu, 402).
-busy(murat_manguoglu, 403).
-busy(murat_manguoglu, 506).
-busy(murat_manguoglu, 507).
-busy(murat_manguoglu, 608).
-busy(murat_manguoglu, 706).
-busy(murat_manguoglu, 707).
-busy(onur_tolga_sehi̇toglu, 106).
-busy(onur_tolga_sehi̇toglu, 107).
-busy(onur_tolga_sehi̇toglu, 208).
-busy(onur_tolga_sehi̇toglu, 302).
-busy(onur_tolga_sehi̇toglu, 303).
-busy(onur_tolga_sehi̇toglu, 304).
-busy(onur_tolga_sehi̇toglu, 305).
-busy(onur_tolga_sehi̇toglu, 306).
-busy(onur_tolga_sehi̇toglu, 706).
-busy(onur_tolga_sehi̇toglu, 709).
-busy(peli̇n_angin, 101).
-busy(peli̇n_angin, 102).
-busy(peli̇n_angin, 108).
-busy(peli̇n_angin, 504).
-busy(peli̇n_angin, 505).
-busy(peli̇n_angin, 506).
-busy(peli̇n_angin, 605).
-busy(peli̇n_angin, 606).
-busy(peli̇n_angin, 703).
-busy(peli̇n_angin, 705).
-busy(pinar_karagoz, 209).
-busy(pinar_karagoz, 210).
-busy(pinar_karagoz, 211).
-busy(pinar_karagoz, 508).
-busy(pinar_karagoz, 509).
-busy(pinar_karagoz, 600).
-busy(pinar_karagoz, 706).
-busy(pinar_karagoz, 707).
-busy(pinar_karagoz, 708).
-busy(pinar_karagoz, 710).
-busy(ramazan_gokberk_ci̇nbi̇s, 100).
-busy(ramazan_gokberk_ci̇nbi̇s, 107).
-busy(ramazan_gokberk_ci̇nbi̇s, 208).
-busy(ramazan_gokberk_ci̇nbi̇s, 209).
-busy(ramazan_gokberk_ci̇nbi̇s, 303).
-busy(ramazan_gokberk_ci̇nbi̇s, 501).
-busy(ramazan_gokberk_ci̇nbi̇s, 607).
-busy(ramazan_gokberk_ci̇nbi̇s, 608).
-busy(ramazan_gokberk_ci̇nbi̇s, 609).
-busy(ramazan_gokberk_ci̇nbi̇s, 709).
-busy(seyda_erteki̇n_bolelli̇, 203).
-busy(seyda_erteki̇n_bolelli̇, 204).
-busy(seyda_erteki̇n_bolelli̇, 205).
-busy(seyda_erteki̇n_bolelli̇, 305).
-busy(seyda_erteki̇n_bolelli̇, 306).
-busy(seyda_erteki̇n_bolelli̇, 402).
-busy(seyda_erteki̇n_bolelli̇, 406).
-busy(seyda_erteki̇n_bolelli̇, 409).
-busy(seyda_erteki̇n_bolelli̇, 603).
-busy(seyda_erteki̇n_bolelli̇, 604).
-busy(seyyi̇t_alper_sert, 106).
-busy(seyyi̇t_alper_sert, 402).
-busy(seyyi̇t_alper_sert, 403).
-busy(seyyi̇t_alper_sert, 406).
-busy(seyyi̇t_alper_sert, 407).
-busy(seyyi̇t_alper_sert, 511).
-busy(seyyi̇t_alper_sert, 704).
-busy(seyyi̇t_alper_sert, 705).
-busy(seyyi̇t_alper_sert, 710).
-busy(seyyi̇t_alper_sert, 711).
-busy(si̇nan_kalkan, 105).
-busy(si̇nan_kalkan, 301).
-busy(si̇nan_kalkan, 302).
-busy(si̇nan_kalkan, 305).
-busy(si̇nan_kalkan, 400).
-busy(si̇nan_kalkan, 405).
-busy(si̇nan_kalkan, 704).
-busy(si̇nan_kalkan, 705).
-busy(si̇nan_kalkan, 706).
-busy(si̇nan_kalkan, 707).
-busy(uluc_saranli, 101).
-busy(uluc_saranli, 102).
-busy(uluc_saranli, 110).
-busy(uluc_saranli, 210).
-busy(uluc_saranli, 211).
-busy(uluc_saranli, 509).
-busy(uluc_saranli, 510).
-busy(uluc_saranli, 701).
-busy(uluc_saranli, 702).
-busy(uluc_saranli, 703).
-busy(yusuf_sahi̇lli̇oglu, 201).
-busy(yusuf_sahi̇lli̇oglu, 202).
-busy(yusuf_sahi̇lli̇oglu, 203).
-busy(yusuf_sahi̇lli̇oglu, 409).
-busy(yusuf_sahi̇lli̇oglu, 410).
-busy(yusuf_sahi̇lli̇oglu, 501).
-busy(yusuf_sahi̇lli̇oglu, 506).
-busy(yusuf_sahi̇lli̇oglu, 507).
-busy(yusuf_sahi̇lli̇oglu, 709).
-busy(yusuf_sahi̇lli̇oglu, 710).
+busy(ahmet_oguz_akyuz, 106); busy(ahmet_oguz_akyuz, 206); busy(ahmet_oguz_akyuz, 207); busy(ahmet_oguz_akyuz, 306); busy(ahmet_oguz_akyuz, 307); busy(ahmet_oguz_akyuz, 407); busy(ahmet_oguz_akyuz, 408); busy(ahmet_oguz_akyuz, 409); busy(ahmet_oguz_akyuz, 410); busy(ahmet_oguz_akyuz, 411).
+busy(ayse_nur_birturk, 100); busy(ayse_nur_birturk, 103); busy(ayse_nur_birturk, 106); busy(ayse_nur_birturk, 107); busy(ayse_nur_birturk, 108); busy(ayse_nur_birturk, 207); busy(ayse_nur_birturk, 209); busy(ayse_nur_birturk, 210); busy(ayse_nur_birturk, 300); busy(ayse_nur_birturk, 302).
+busy(ayse_yasemin_seydim, 200); busy(ayse_yasemin_seydim, 201); busy(ayse_yasemin_seydim, 202); busy(ayse_yasemin_seydim, 401); busy(ayse_yasemin_seydim, 402); busy(ayse_yasemin_seydim, 406); busy(ayse_yasemin_seydim, 407); busy(ayse_yasemin_seydim, 409); busy(ayse_yasemin_seydim, 410); busy(ayse_yasemin_seydim, 500).
+busy(cevat_sener, 100); busy(cevat_sener, 101); busy(cevat_sener, 102); busy(cevat_sener, 305); busy(cevat_sener, 409); busy(cevat_sener, 410); busy(cevat_sener, 500); busy(cevat_sener, 707); busy(cevat_sener, 708); busy(cevat_sener, 709).
+busy(emre_akbas, 107); busy(emre_akbas, 200); busy(emre_akbas, 201); busy(emre_akbas, 306); busy(emre_akbas, 307); busy(emre_akbas, 404); busy(emre_akbas, 405); busy(emre_akbas, 406); busy(emre_akbas, 610); busy(emre_akbas, 611).
+busy(erol_sahin, 103); busy(erol_sahin, 201); busy(erol_sahin, 202); busy(erol_sahin, 403); busy(erol_sahin, 507); busy(erol_sahin, 601); busy(erol_sahin, 602); busy(erol_sahin, 603); busy(erol_sahin, 710); busy(erol_sahin, 711).
+busy(ertan_onur, 104); busy(ertan_onur, 105); busy(ertan_onur, 307); busy(ertan_onur, 308); busy(ertan_onur, 503); busy(ertan_onur, 504); busy(ertan_onur, 505); busy(ertan_onur, 600); busy(ertan_onur, 704); busy(ertan_onur, 705).
+busy(faruk_polat, 107); busy(faruk_polat, 108); busy(faruk_polat, 210); busy(faruk_polat, 211); busy(faruk_polat, 305); busy(faruk_polat, 306); busy(faruk_polat, 407); busy(faruk_polat, 408); busy(faruk_polat, 600); busy(faruk_polat, 604).
+busy(faruk_tokdemir, 309); busy(faruk_tokdemir, 310); busy(faruk_tokdemir, 311); busy(faruk_tokdemir, 504); busy(faruk_tokdemir, 601); busy(faruk_tokdemir, 602); busy(faruk_tokdemir, 603); busy(faruk_tokdemir, 606); busy(faruk_tokdemir, 607); busy(faruk_tokdemir, 707).
+busy(fatos_tunay_yarman_vural, 103); busy(fatos_tunay_yarman_vural, 410); busy(fatos_tunay_yarman_vural, 411); busy(fatos_tunay_yarman_vural, 507); busy(fatos_tunay_yarman_vural, 508); busy(fatos_tunay_yarman_vural, 600); busy(fatos_tunay_yarman_vural, 601); busy(fatos_tunay_yarman_vural, 602); busy(fatos_tunay_yarman_vural, 705); busy(fatos_tunay_yarman_vural, 711).
+busy(fehime_nihan_cicekli, 103); busy(fehime_nihan_cicekli, 104); busy(fehime_nihan_cicekli, 301); busy(fehime_nihan_cicekli, 302); busy(fehime_nihan_cicekli, 305); busy(fehime_nihan_cicekli, 306); busy(fehime_nihan_cicekli, 600); busy(fehime_nihan_cicekli, 601); busy(fehime_nihan_cicekli, 604); busy(fehime_nihan_cicekli, 700).
+busy(ferda_nur_alpaslan, 110); busy(ferda_nur_alpaslan, 301); busy(ferda_nur_alpaslan, 302); busy(ferda_nur_alpaslan, 311); busy(ferda_nur_alpaslan, 404); busy(ferda_nur_alpaslan, 700); busy(ferda_nur_alpaslan, 701); busy(ferda_nur_alpaslan, 709); busy(ferda_nur_alpaslan, 710); busy(ferda_nur_alpaslan, 711).
+busy(gokturk_ucoluk, 108); busy(gokturk_ucoluk, 109); busy(gokturk_ucoluk, 110); busy(gokturk_ucoluk, 201); busy(gokturk_ucoluk, 601); busy(gokturk_ucoluk, 701); busy(gokturk_ucoluk, 702); busy(gokturk_ucoluk, 704); busy(gokturk_ucoluk, 705); busy(gokturk_ucoluk, 706).
+busy(hakan_yildiz, 105); busy(hakan_yildiz, 211); busy(hakan_yildiz, 501); busy(hakan_yildiz, 502); busy(hakan_yildiz, 602); busy(hakan_yildiz, 702); busy(hakan_yildiz, 703); busy(hakan_yildiz, 707); busy(hakan_yildiz, 708); busy(hakan_yildiz, 709).
+busy(hande_alemdar, 202); busy(hande_alemdar, 203); busy(hande_alemdar, 210); busy(hande_alemdar, 211); busy(hande_alemdar, 300); busy(hande_alemdar, 301); busy(hande_alemdar, 502); busy(hande_alemdar, 503); busy(hande_alemdar, 610); busy(hande_alemdar, 611).
+busy(ismail_hakki_toroslu, 100); busy(ismail_hakki_toroslu, 105); busy(ismail_hakki_toroslu, 106); busy(ismail_hakki_toroslu, 306); busy(ismail_hakki_toroslu, 307); busy(ismail_hakki_toroslu, 308); busy(ismail_hakki_toroslu, 403); busy(ismail_hakki_toroslu, 404); busy(ismail_hakki_toroslu, 405); busy(ismail_hakki_toroslu, 709).
+busy(ismail_sengor_altingovde, 307); busy(ismail_sengor_altingovde, 308); busy(ismail_sengor_altingovde, 409); busy(ismail_sengor_altingovde, 510); busy(ismail_sengor_altingovde, 511); busy(ismail_sengor_altingovde, 601); busy(ismail_sengor_altingovde, 602); busy(ismail_sengor_altingovde, 705); busy(ismail_sengor_altingovde, 706); busy(ismail_sengor_altingovde, 707).
+busy(mehmet_halit_s_oguztuzun, 107); busy(mehmet_halit_s_oguztuzun, 310); busy(mehmet_halit_s_oguztuzun, 311); busy(mehmet_halit_s_oguztuzun, 407); busy(mehmet_halit_s_oguztuzun, 408); busy(mehmet_halit_s_oguztuzun, 505); busy(mehmet_halit_s_oguztuzun, 506); busy(mehmet_halit_s_oguztuzun, 608); busy(mehmet_halit_s_oguztuzun, 610); busy(mehmet_halit_s_oguztuzun, 611).
+busy(murat_manguoglu, 100); busy(murat_manguoglu, 308); busy(murat_manguoglu, 309); busy(murat_manguoglu, 402); busy(murat_manguoglu, 403); busy(murat_manguoglu, 506); busy(murat_manguoglu, 507); busy(murat_manguoglu, 608); busy(murat_manguoglu, 706); busy(murat_manguoglu, 707).
+busy(onur_tolga_sehitoglu, 106); busy(onur_tolga_sehitoglu, 107); busy(onur_tolga_sehitoglu, 208); busy(onur_tolga_sehitoglu, 302); busy(onur_tolga_sehitoglu, 303); busy(onur_tolga_sehitoglu, 304); busy(onur_tolga_sehitoglu, 305); busy(onur_tolga_sehitoglu, 306); busy(onur_tolga_sehitoglu, 706); busy(onur_tolga_sehitoglu, 709).
+busy(pelin_angin, 101); busy(pelin_angin, 102); busy(pelin_angin, 108); busy(pelin_angin, 504); busy(pelin_angin, 505); busy(pelin_angin, 506); busy(pelin_angin, 605); busy(pelin_angin, 606); busy(pelin_angin, 703); busy(pelin_angin, 705).
+busy(pinar_karagoz, 209); busy(pinar_karagoz, 210); busy(pinar_karagoz, 211); busy(pinar_karagoz, 508); busy(pinar_karagoz, 509); busy(pinar_karagoz, 600); busy(pinar_karagoz, 706); busy(pinar_karagoz, 707); busy(pinar_karagoz, 708); busy(pinar_karagoz, 710).
+busy(ramazan_gokberk_cinbis, 100); busy(ramazan_gokberk_cinbis, 107); busy(ramazan_gokberk_cinbis, 208); busy(ramazan_gokberk_cinbis, 209); busy(ramazan_gokberk_cinbis, 303); busy(ramazan_gokberk_cinbis, 501); busy(ramazan_gokberk_cinbis, 607); busy(ramazan_gokberk_cinbis, 608); busy(ramazan_gokberk_cinbis, 609); busy(ramazan_gokberk_cinbis, 709).
+busy(seyda_ertekin_bolelli, 203); busy(seyda_ertekin_bolelli, 204); busy(seyda_ertekin_bolelli, 205); busy(seyda_ertekin_bolelli, 305); busy(seyda_ertekin_bolelli, 306); busy(seyda_ertekin_bolelli, 402); busy(seyda_ertekin_bolelli, 406); busy(seyda_ertekin_bolelli, 409); busy(seyda_ertekin_bolelli, 603); busy(seyda_ertekin_bolelli, 604).
+busy(seyyit_alper_sert, 106); busy(seyyit_alper_sert, 402); busy(seyyit_alper_sert, 403); busy(seyyit_alper_sert, 406); busy(seyyit_alper_sert, 407); busy(seyyit_alper_sert, 511); busy(seyyit_alper_sert, 704); busy(seyyit_alper_sert, 705); busy(seyyit_alper_sert, 710); busy(seyyit_alper_sert, 711).
+busy(sinan_kalkan, 105); busy(sinan_kalkan, 301); busy(sinan_kalkan, 302); busy(sinan_kalkan, 305); busy(sinan_kalkan, 400); busy(sinan_kalkan, 405); busy(sinan_kalkan, 704); busy(sinan_kalkan, 705); busy(sinan_kalkan, 706); busy(sinan_kalkan, 707).
+busy(uluc_saranli, 101); busy(uluc_saranli, 102); busy(uluc_saranli, 110); busy(uluc_saranli, 210); busy(uluc_saranli, 211); busy(uluc_saranli, 509); busy(uluc_saranli, 510); busy(uluc_saranli, 701); busy(uluc_saranli, 702); busy(uluc_saranli, 703).
+busy(yusuf_sahillioglu, 201); busy(yusuf_sahillioglu, 202); busy(yusuf_sahillioglu, 203); busy(yusuf_sahillioglu, 409); busy(yusuf_sahillioglu, 410); busy(yusuf_sahillioglu, 501); busy(yusuf_sahillioglu, 506); busy(yusuf_sahillioglu, 507); busy(yusuf_sahillioglu, 709); busy(yusuf_sahillioglu, 710).
+
 
 %Courses
-course(5710100, COMPUTER_ENGINEERING_ORIENTATION, No, Undergraduate, Must, 175, 2, 1).
-course(5710111, INTRODUCTION_TO_COMPUTER_ENG_CONCEPTS, No, Undergraduate, Must, 55, 3, 1).
-course(5710111, INTRODUCTION_TO_COMPUTER_ENG_CONCEPTS, No, Undergraduate, Must, 55, 3, 2).
-course(5710111, INTRODUCTION_TO_COMPUTER_ENG_CONCEPTS, No, Undergraduate, Must, 62, 3, 3).
-course(5710140, C_PROGRAMMING, No, Undergraduate, Must, 40, 3, 1).
-course(5710213, DATA_STRUCTURES, No, Undergraduate, Must, 60, 3, 1).
-course(5710213, DATA_STRUCTURES, No, Undergraduate, Must, 60, 3, 2).
-course(5710213, DATA_STRUCTURES, No, Undergraduate, Must, 60, 3, 3).
-course(5710223, DISCRETE_COMPUTATIONAL_STRUCTURES, No, Undergraduate, Must, 69, 3, 1).
-course(5710223, DISCRETE_COMPUTATIONAL_STRUCTURES, No, Undergraduate, Must, 70, 3, 2).
-course(5710223, DISCRETE_COMPUTATIONAL_STRUCTURES, No, Undergraduate, Must, 76, 3, 3).
-course(5710301, ALGORITHMS_AND_DATA_STRUCTURES, Yes, Undergraduate, Must, 45, 3, 1).
-course(5710302, INTR_TO_DATABASE_MANAGEMENT_SYSTEMS, Yes, Undergraduate, Must, 27, 3, 1).
-course(5710305, OBJECT_ORIENTED_PROGRAMMING_WITH_JAVA, Yes, Undergraduate, Must, 25, 3, 1).
-course(5710310, ALGORITHMS_AND_DATA_STRUCTURES_WITH_PYTHON, Yes, Undergraduate, Must, 45, 3, 1).
-course(5710315, ALGORITHMS, No, Undergraduate, Must, 111, 3, 1).
-course(5710315, ALGORITHMS, No, Undergraduate, Must, 102, 3, 2).
-course(5710331, COMPUTER_ORGANIZATION, No, Undergraduate, Must, 200, 3, 1).
-course(5710351, DATA_MANAGEMENT_AND_FILE_STRUCTURES, No, Undergraduate, Must, 105, 3, 1).
-course(5710351, DATA_MANAGEMENT_AND_FILE_STRUCTURES, No, Undergraduate, Must, 90, 3, 2).
-course(5710371, SCIENTIFIC_COMPUTING, No, Undergraduate, Elective, 50, 3, 1).
-course(5710424, LOGIC_FOR_COMPUTER_SCIENCE, No, Undergraduate, Elective, 50, 3, 1).
-course(5710435, DATA_COMMUNICATIONS_AND_NETWORKING, No, Undergraduate, Must, 85, 3, 1).
-course(5710435, DATA_COMMUNICATIONS_AND_NETWORKING, No, Undergraduate, Must, 95, 3, 2).
-course(5710443, INTRODUCTION_TO_OBJECTORIENTED_PROG_LANG_AND_SYSTEMS, No, Undergraduate, Must, 54, 3, 1).
-course(5710445, SOFTWARE_DEVELOPMENT_WITH_SCRIPTING_LANGUAGES, No, Undergraduate, Elective, 50, 3, 1).
-course(5710453, SPECIAL_TOPICS_IN_COMPUTER_ENGINEERING_SOFTWARE_CONSTRUCTION, No, Undergraduate, Elective, 50, 3, 1).
-course(5710454, SPECIAL_TOPICS_IN_COMPUTER_ENGINEERING_INTRODUCTION_TO_SOFTWARE_ARCHITECTURE, No, Undergraduate, Elective, 50, 3, 1).
-course(5710460, SPECIAL_TOPICS_IN_COMPUTER_ENGINEERING_INTRODUCTION_TO_ROBOTICS_FOR_COMPUTER_ENGINEERING, No, Undergraduate, Elective, 50, 3, 1).
-course(5710463, INTRODUCTION_TO_NATURAL_LANGU_PROCESSING, No, Undergraduate, Elective, 50, 3, 1).
-course(5710466, FUNDAMENTALS_OF_IMAGE_PROCESSING, No, Undergraduate, Elective, 50, 3, 1).
-course(5710477, INTRODUCTION_TO_COMPUTER_GRAPHICS, No, Undergraduate, Elective, 115, 3, 1).
-course(5710477, INTRODUCTION_TO_COMPUTER_GRAPHICS, No, Undergraduate, Elective, 90, 3, 2).
-course(5710483, INTRODUCTION_TO_COMPUTER_VISION, No, Undergraduate, Elective, 53, 3, 1).
-course(5710487, SPECIAL_TOPICS_IN_COMPUTER_ENGINEERING_INTRODUCTION_TO_QUANTUM_COMPUTING, No, Undergraduate, Elective, 50, 3, 1).
-course(5710499, SPECIAL_TOPICS_INTRODUCTION_TO_MACHINE_LEARNING, No, Undergraduate, Must, 55, 1, 1).
-course(5710501, DEEP_LEARNING, No, Graduate, Elective, 45, 3, 1).
-course(5710514, DATA_MINING, No, Graduate, Elective, 25, 3, 1).
-course(5710536, ADVANCED_UNIX, No, Graduate, Elective, 25, 3, 1).
-course(5710540, PROGRAMMING_LANGUAGES, No, Graduate, Elective, 26, 3, 1).
-course(5710562, MACHINE_LEARNING, No, Graduate, Elective, 25, 3, 1).
-course(5710570, COMPUTATIONAL_GEOMETRY, No, Graduate, Elective, 25, 3, 1).
-course(5710587, HIGH_DYNAMIC_RANGE_IMAGING, No, Graduate, Must, 25, 3, 1).
-course(5710590, RESEARCH_METHODS_AND_ETHICS, No, Graduate, Must, 30, 3, 1).
-course(5710591, GRADUATE_SEMINAR, No, Graduate, Seminar, 30, 3, 1).
-course(5710778, WEB_SEARCH_ENGINE_DESIGN, No, Graduate, Elective, 25, 3, 1).
-course(5710786, ROBOT_MOTION_PLANNING_AND_CONTROL, No, Graduate, Elective, 25, 3, 1).
+course(5710100, computer_engineering_orientation, no, undergraduate, must, 175, 2, 1).
+course(5710111, introduction_to_computer_eng_concepts, no, undergraduate, must, 55, 3, 1).
+course(5710111, introduction_to_computer_eng_concepts, no, undergraduate, must, 55, 3, 2).
+course(5710111, introduction_to_computer_eng_concepts, no, undergraduate, must, 62, 3, 3).
+course(5710140, c_programming, no, undergraduate, must, 40, 3, 1).
+course(5710213, data_structures, no, undergraduate, must, 60, 3, 1).
+course(5710213, data_structures, no, undergraduate, must, 60, 3, 2).
+course(5710213, data_structures, no, undergraduate, must, 60, 3, 3).
+course(5710223, discrete_computational_structures, no, undergraduate, must, 69, 3, 1).
+course(5710223, discrete_computational_structures, no, undergraduate, must, 70, 3, 2).
+course(5710223, discrete_computational_structures, no, undergraduate, must, 76, 3, 3).
+course(5710301, algorithms_and_data_structures, yes, undergraduate, must, 45, 3, 1).
+course(5710302, intr_to_database_management_systems, yes, undergraduate, must, 27, 3, 1).
+course(5710305, object_oriented_programming_with_java, yes, undergraduate, must, 25, 3, 1).
+course(5710310, algorithms_and_data_structures_with_python, yes, undergraduate, must, 45, 3, 1).
+course(5710315, algorithms, no, undergraduate, must, 111, 3, 1).
+course(5710315, algorithms, no, undergraduate, must, 102, 3, 2).
+course(5710331, computer_organization, no, undergraduate, must, 200, 3, 1).
+course(5710351, data_management_and_file_structures, no, undergraduate, must, 105, 3, 1).
+course(5710351, data_management_and_file_structures, no, undergraduate, must, 90, 3, 2).
+course(5710371, scientific_computing, no, undergraduate, elective, 50, 3, 1).
+course(5710424, logic_for_computer_science, no, undergraduate, elective, 50, 3, 1).
+course(5710435, data_communications_and_networking, no, undergraduate, must, 85, 3, 1).
+course(5710435, data_communications_and_networking, no, undergraduate, must, 95, 3, 2).
+course(5710443, introduction_to_objectoriented_prog_lang_and_systems, no, undergraduate, must, 54, 3, 1).
+course(5710445, software_development_with_scripting_languages, no, undergraduate, elective, 50, 3, 1).
+course(5710453, special_topics_in_computer_engineering_software_construction, no, undergraduate, elective, 50, 3, 1).
+course(5710454, special_topics_in_computer_engineering_introduction_to_software_architecture, no, undergraduate, elective, 50, 3, 1).
+course(5710460, special_topics_in_computer_engineering_introduction_to_robotics_for_computer_engineering, no, undergraduate, elective, 50, 3, 1).
+course(5710463, introduction_to_natural_langu_processing, no, undergraduate, elective, 50, 3, 1).
+course(5710466, fundamentals_of_image_processing, no, undergraduate, elective, 50, 3, 1).
+course(5710477, introduction_to_computer_graphics, no, undergraduate, elective, 115, 3, 1).
+course(5710477, introduction_to_computer_graphics, no, undergraduate, elective, 90, 3, 2).
+course(5710483, introduction_to_computer_vision, no, undergraduate, elective, 53, 3, 1).
+course(5710487, special_topics_in_computer_engineering_introduction_to_quantum_computing, no, undergraduate, elective, 50, 3, 1).
+course(5710499, special_topics_introduction_to_machine_learning, no, undergraduate, must, 55, 1, 1).
+course(5710501, deep_learning, no, graduate, elective, 45, 3, 1).
+course(5710514, data_mining, no, graduate, elective, 25, 3, 1).
+course(5710536, advanced_unix, no, graduate, elective, 25, 3, 1).
+course(5710540, programming_languages, no, graduate, elective, 26, 3, 1).
+course(5710562, machine_learning, no, graduate, elective, 25, 3, 1).
+course(5710570, computational_geometry, no, graduate, elective, 25, 3, 1).
+course(5710587, high_dynamic_range_imaging, no, graduate, must, 25, 3, 1).
+course(5710590, research_methods_and_ethics, no, graduate, must, 30, 3, 1).
+course(5710591, graduate_seminar, no, graduate, seminar, 30, 3, 1).
+course(5710778, web_search_engine_design, no, graduate, elective, 25, 3, 1).
+course(5710786, robot_motion_planning_and_control, no, graduate, elective, 25, 3, 1).
