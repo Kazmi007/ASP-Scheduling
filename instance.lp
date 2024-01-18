@@ -1,5 +1,6 @@
 % instance
 % Classrooms and their capacities
+% classroom(Classroom name, capacity)
 classroom(bmb_1, 180).
 classroom(bmb_2, 80).
 classroom(bmb_3, 80).
@@ -8,6 +9,7 @@ classroom(bmb_5, 60).
 classroom(bmb_a101, 25).
 
 % Define time slots and their indexes
+% timeslot(Time slot Name, slot index). (first digit represnt the day #, last 2 represent the hour #)
 timeslot(mon_8_30_to_9_30, 100). timeslot(mon_9_30_to_10_30, 101). timeslot(mon_10_30_to_11_30, 102). timeslot(mon_11_30_to_12_30, 103). timeslot(mon_12_30_to_13_30, 104). timeslot(mon_13_30_to_14_30, 105). timeslot(mon_14_30_to_15_30, 106). timeslot(mon_15_30_to_16_30, 107). timeslot(mon_16_30_to_17_30, 108). timeslot(mon_17_30_to_18_30, 109). timeslot(mon_18_30_to_19_30, 110). timeslot(mon_19_30_to_20_30, 111). 
 timeslot(tue_8_30_to_9_30, 200). timeslot(tue_9_30_to_10_30, 201). timeslot(tue_10_30_to_11_30, 202). timeslot(tue_11_30_to_12_30, 203). timeslot(tue_12_30_to_13_30, 204). timeslot(tue_13_30_to_14_30, 205). timeslot(tue_14_30_to_15_30, 206). timeslot(tue_15_30_to_16_30, 207). timeslot(tue_16_30_to_17_30, 208). timeslot(tue_17_30_to_18_30, 209). timeslot(tue_18_30_to_19_30, 210). timeslot(tue_19_30_to_20_30, 211). 
 timeslot(wed_8_30_to_9_30, 300). timeslot(wed_9_30_to_10_30, 301). timeslot(wed_10_30_to_11_30, 302). timeslot(wed_11_30_to_12_30, 303). timeslot(wed_12_30_to_13_30, 304). timeslot(wed_13_30_to_14_30, 305). timeslot(wed_14_30_to_15_30, 306). timeslot(wed_15_30_to_16_30, 307). timeslot(wed_16_30_to_17_30, 308). timeslot(wed_17_30_to_18_30, 309). timeslot(wed_18_30_to_19_30, 310). timeslot(wed_19_30_to_20_30, 311). 
@@ -17,6 +19,7 @@ timeslot(sat_8_30_to_9_30, 600). timeslot(sat_9_30_to_10_30, 601). timeslot(sat_
 timeslot(sun_8_30_to_9_30, 700). timeslot(sun_9_30_to_10_30, 701). timeslot(sun_10_30_to_11_30, 702). timeslot(sun_11_30_to_12_30, 703). timeslot(sun_12_30_to_13_30, 704). timeslot(sun_13_30_to_14_30, 705). timeslot(sun_14_30_to_15_30, 706). timeslot(sun_15_30_to_16_30, 707). timeslot(sun_16_30_to_17_30, 708). timeslot(sun_17_30_to_18_30, 709). timeslot(sun_18_30_to_19_30, 710). timeslot(sun_19_30_to_20_30, 711).
 
 % Define Instructors and their associated courses
+% instructor_course(Instructor Name, Course Code).
 instructor_course(ahmet_oguz_akyuz, 5710477).
 instructor_course(ahmet_oguz_akyuz, 5710587).
 instructor_course(ayse_nur_birturk, 5710223).
@@ -61,6 +64,7 @@ instructor_course(yusuf_sahillioglu, 5710301).
 instructor_course(yusuf_sahillioglu, 5710477).
 
 % Instructors and their Busy hours
+% busy(Instrucor name, Hour Index).
 busy(ahmet_oguz_akyuz, 106). busy(ahmet_oguz_akyuz, 206). busy(ahmet_oguz_akyuz, 207). busy(ahmet_oguz_akyuz, 306). busy(ahmet_oguz_akyuz, 307). busy(ahmet_oguz_akyuz, 407). busy(ahmet_oguz_akyuz, 408). busy(ahmet_oguz_akyuz, 409). busy(ahmet_oguz_akyuz, 410). busy(ahmet_oguz_akyuz, 411).
 busy(ayse_nur_birturk, 100). busy(ayse_nur_birturk, 103). busy(ayse_nur_birturk, 106). busy(ayse_nur_birturk, 107). busy(ayse_nur_birturk, 108). busy(ayse_nur_birturk, 207). busy(ayse_nur_birturk, 209). busy(ayse_nur_birturk, 210). busy(ayse_nur_birturk, 300). busy(ayse_nur_birturk, 302).
 busy(ayse_yasemin_seydim, 200). busy(ayse_yasemin_seydim, 201). busy(ayse_yasemin_seydim, 202). busy(ayse_yasemin_seydim, 401). busy(ayse_yasemin_seydim, 402). busy(ayse_yasemin_seydim, 406). busy(ayse_yasemin_seydim, 407). busy(ayse_yasemin_seydim, 409). busy(ayse_yasemin_seydim, 410). busy(ayse_yasemin_seydim, 500).
@@ -91,7 +95,8 @@ busy(uluc_saranli, 101). busy(uluc_saranli, 102). busy(uluc_saranli, 110). busy(
 busy(yusuf_sahillioglu, 201). busy(yusuf_sahillioglu, 202). busy(yusuf_sahillioglu, 203). busy(yusuf_sahillioglu, 409). busy(yusuf_sahillioglu, 410). busy(yusuf_sahillioglu, 501). busy(yusuf_sahillioglu, 506). busy(yusuf_sahillioglu, 507). busy(yusuf_sahillioglu, 709). busy(yusuf_sahillioglu, 710).
 
 
-%Courses
+% Courses
+% course(Course Code, Course Name, Service, Level (UG/G), Type, Capacity, Lecture Hours, Section #).
 course(5710100, computer_engineering_orientation, no, undergraduate, must, 175, 2, 1).
 course(5710111, introduction_to_computer_eng_concepts, no, undergraduate, must, 55, 3, 1).
 course(5710111, introduction_to_computer_eng_concepts, no, undergraduate, must, 55, 3, 2).
@@ -139,3 +144,42 @@ course(5710590, research_methods_and_ethics, no, graduate, must, 30, 3, 1).
 course(5710591, graduate_seminar, no, graduate, seminar, 30, 3, 1).
 course(5710778, web_search_engine_design, no, graduate, elective, 25, 3, 1).
 course(5710786, robot_motion_planning_and_control, no, graduate, elective, 25, 3, 1).
+
+% Batch Courses
+% Batch(Course Code, Batch #).
+batch(5710100,1).
+batch(5710111,1).
+batch(5710213,2).
+batch(5710140,1).
+batch(5710223,2).
+batch(5710301,0). %--> Service Courses are 0
+batch(5710302,0).
+batch(5710305,0).
+batch(5710310,0).
+batch(5710315,3).
+batch(5710331,3).
+batch(5710351,3).
+batch(5710371,3).
+batch(5710424,4).
+batch(5710435,4).
+batch(5710443,4).
+batch(5710445,4).
+batch(5710453,4).
+batch(5710454,4).
+batch(5710460,4).
+batch(5710463,4).
+batch(5710477,4).
+batch(5710483,4).
+batch(5710487,4).
+batch(5710499,4).
+batch(5710501,5).
+batch(5710514,5).
+batch(5710536,5).
+batch(5710540,5).
+batch(5710562,5).
+batch(5710570,5).
+batch(5710587,5).
+batch(5710590,5).
+batch(5710591,5).
+batch(5710778,7).
+batch(5710786,7).
